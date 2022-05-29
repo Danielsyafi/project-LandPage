@@ -1,0 +1,230 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing:border-box;
+}
+
+html,body{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: none;
+    display: grid;
+    place-items: center;
+    background: -webkit-linear-gradient(left,#6c1f77,#fa1982);
+    box-sizing: border-box;
+}
+
+.header{
+    background-image: url(—Pngtree—gradient\ color\ modern\ design\ with_1205430.jpg);
+    width: 1520px;
+    height: 880px;
+}
+#kalimat1{
+    margin: 10px;
+    padding: 350px 0px 0px 60px;
+   
+}
+#kalimat1 button{
+   width: 150px;
+   height: 50px;
+   background-color: #762184;
+   font-size: 20px;
+   color:#fa4299;
+   font-family: 'Ultra', serif;
+
+
+}
+#mod{
+   padding: 60px 0px 0px 5px;
+   margin: 0;
+   display: none;
+}
+#mod p{
+    width: 1000px;
+    height: 60px;
+    color: white;
+    font-size: 27px;
+    font-family: 'Creepster', cursive;
+}
+#close{
+    padding:  0 0 0 970px;
+}
+#close-button{
+    color: white;
+    background-color: #fa4299;
+    padding: 5px;
+    width: 20px;
+
+   
+}
+.logo-1{
+    width:0;
+    height:0;
+}
+.logo-1 h1{
+padding: 100px;
+margin: auto;
+font-size: 120px;
+font-family: 'Ultra', serif;
+font-weight: bold;
+color: rgb(126, 239, 255);
+
+}
+h6{
+    font-size: 80px;
+}
+
+.list{
+    float: right;
+    
+}
+.list ul li{
+    display: flex;
+    line-height: 60px;
+    float: left;
+    margin: 0;
+    padding-right:80px;
+ 
+}
+.list ul li a{
+    text-decoration: none;
+    color: rgb(126, 239, 255);
+    font-family: 'Creepster', cursive;
+}
+.list ul li a:hover{
+    color: aliceblue;
+}
+
+.gambar-1{
+    padding: 140px 0 0 690px;
+}
+.gambar-1 img{
+    width: 840px;
+    height: 660px;
+}
+.about{
+    width: 1500px;
+    height: 800px;
+}
+.about-1{
+    padding: 100px 0 50px 160px;
+}
+.about h2 {
+    color: rgb(253, 253, 253);
+}
+.about-1 span{
+    color: rgb(126, 239, 255);
+}
+.about-2{
+    margin: 0;
+    height: 0;
+}
+.about-2 p{
+    width: 900px;
+    padding: 35px 0 50px 100px;
+    font-size: 25px;
+    color: rgb(244, 244, 244);
+    
+}
+.gambar-2{
+    float: right;
+}
+
+.event{
+    height: auto;
+}
+.event-1 h3{
+    text-align: center;
+    font-size: 55px;
+    color: rgb(248, 248, 248);
+}
+.foto img{
+    margin: auto;
+    padding: 50px 50px 170px 50px;
+}
+#carouselExampleCaptions{
+    padding: 0;
+    margin: 0;
+    position: relative;
+   
+}
+.crsl{
+ 
+    width: 1200px;
+    margin: 0;
+    display: none;
+}
+.crs{
+    padding: 0 0 90px 0;
+
+   
+}
+.crs h1{
+
+font-size: 55px;
+text-align: center;
+}
+.carousel-inner{
+    width: auto;
+    height: 1000px;
+}
+.carousel-inner p{
+    font-size: 20px;
+
+}
+.forum{
+    margin: 10px;
+    text-align: center;
+    height: 500px;
+}
+
+.countainer{
+    margin-top: 10px;
+}
+.forum1{
+    margin:0;
+    padding:0;
+    background: #ffffff;
+    font-size: 16px;
+    color: #777;
+    font-family: sans-serif;
+    font-weight: 300;
+ }
+ 
+
+ .futer{
+     background-image: url(background-3909535_1920.jpg);
+     width: 100%;
+     height: 400px;
+    
+ }
+ .format{
+     padding: 0;
+     margin: 0;
+ }
+ .format a, h1{
+     color: white;
+     text-decoration: none;
+     padding: 100px; 
+     
+ }
+ .form a:hover{
+     color: #fa4299;
+ }
+ .bca h1{
+     border-radius: 100%;
+     background-color: #762184;
+ }
+ .text-terakhir ,h1{
+     font-size: 60px;
+     color: #ffffff;
+     display: flex;
+     line-height:20px;
+ }
+ .text-akhir ,h4{
+     display: flex;
+     float: left;
+     padding: 80px 0px 0px 210px;
+     color: #ffffff;
+ }
+
